@@ -1,0 +1,31 @@
+* {
+    font-family: "Noto Sans Devanagari", serif;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+body {
+    background-color: hsl(30, 100%, 60%);
+    overflow-x: hidden;
+}
+
+.customCol {
+    background-color: #FF6600;
+}
+
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.mainBg {
+    background-color: #f9b247;
+}
+
+.chalisa-text {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #212529;
+}
